@@ -16,7 +16,7 @@ export const projects = [
     image: "/images/2.png",
     tags: ["React", "Bootstrap", "Quill.js", "MongoDB"],
     source: "https://github.com/Abhijeet6387/Wordifier",
-    id: 1,
+    id: 3,
   },
   {
     title: "Industry-4NSV",
@@ -25,7 +25,7 @@ export const projects = [
     image: "/images/3.png",
     tags: ["React", "Express", "Node", "MongoDB"],
     source: "https://github.com/Abhijeet6387/Industry-4NSV",
-    id: 2,
+    id: 1,
   },
   {
     title: "NewZapp",
@@ -34,7 +34,7 @@ export const projects = [
     image: "/images/4.png",
     tags: ["React", "Bootstrap", "NewsAPI"],
     source: "https://github.com/Abhijeet6387/NewZapp",
-    id: 3,
+    id: 2,
   },
 ];
 
